@@ -20,7 +20,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/bomberman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/bomberman-contribution-graph.svg" />
+  <img alt="bomberman contribution graph" src="https://raw.githubusercontent.com/atoatolobos11-del/atoatolobos11-del/output/bomberman-contribution-graph.svg" />
 </picture>
